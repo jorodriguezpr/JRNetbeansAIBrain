@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: net/microrepair/jrnetbeansaibrain/Bundle.properties
+OpenIDE-Module-Layer: net/microrepair/jrnetbeansaibrain/layer.xml

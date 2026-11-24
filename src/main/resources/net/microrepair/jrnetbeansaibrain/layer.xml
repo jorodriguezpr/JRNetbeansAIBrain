@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  JR NetBeans AI Brain (JRNetbeansAIBrain) - Copyright 2026 Jose Rodriguez Arroyo
+  Developer: Jose Rodriguez Arroyo - https://microrepair.net
+  Project: https://github.com/jorodriguezpr/JRNetbeansAIBrain
+  Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+  SPDX-License-Identifier: Apache-2.0
+-->
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Tools">
+            <folder name="JRAIBrain">
+                <attr name="displayName" bundlevalue="net.microrepair.jrnetbeansaibrain.Bundle#Menu/Tools/JRAIBrain"/>
+                <attr name="position" intvalue="1320"/>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>
